@@ -21,8 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", titel: "Projects", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:robert.github.io"}
-  - {title: Github, icon: github, url: "https://robert.github.io"}
+  - {title: Mail, icon: envelope, url: "mailto:robertbrittingham2004@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/Shii-Swag"}
   - {title: Youtube, icon: youtube, url: "https://www.youtube.com/channel/UCvDTJ9uwaeBUJtAABaIhn-g"}
 
 comments:
